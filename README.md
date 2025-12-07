@@ -3,14 +3,14 @@
 
 <p align="center">
   <strong>Frontend-focused Developer • AI/ML Enthusiast • Data Explorer</strong><br>
-  I build clean UIs, practical ML tools, and automation scripts that make life easier.
+  I build clean UIs, practical AI tools, and automation scripts that make life easier.
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 I enjoy crafting eye-catching interfaces and turning data into meaningful insights.  
-I work on small games, ML experiments, and workflow automation scripts.  
+I work on small games, AI experiments, and workflow automation scripts.  
 Always exploring new tools — especially when they make tasks simpler.
 
 ---
