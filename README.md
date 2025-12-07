@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 I enjoy crafting eye-catching interfaces and turning data into meaningful insights.  
 I work on small games, AI experiments, and workflow automation scripts.  
-Always exploring new tools — especially when they make tasks simpler.
+Currently a **student at Don Bosco College of Engineering**, always exploring new tools — especially when they make tasks simpler.
 
 ---
 
@@ -37,7 +37,7 @@ Always exploring new tools — especially when they make tasks simpler.
 
 ### 🔹 **Snake (A* Pathfinding AI)**
 A JavaScript game showcasing AI-driven movement using A* algorithm.  
-👉 **[https://github.com/Jadie145/snake-a-star](https://github.com/Jadie145/Simple-A-Snake-Using-HTML-JS)**
+👉 **[Simple A* Snake Using HTML+JS](https://github.com/Jadie145/Simple-A-Snake-Using-HTML-JS)**
 
 ---
 
