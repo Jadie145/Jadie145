@@ -37,11 +37,11 @@ Always exploring new tools — especially when they make tasks simpler.
 
 ### 🔹 **Snake (A* Pathfinding AI)**
 A JavaScript game showcasing AI-driven movement using A* algorithm.  
-👉 **https://github.com/Jadie145/snake-a-star**
+👉 **[https://github.com/Jadie145/snake-a-star](https://github.com/Jadie145/Simple-A-Snake-Using-HTML-JS)**
 
 ---
 
-### 🔹 **Canteen Management System**
+### 🔹 **Canteen Management System (Private)**
 A full-stack project for menu handling, orders, and admin operations.  
 👉 **https://github.com/Jadie145/canteen-manager**
 
@@ -49,7 +49,7 @@ A full-stack project for menu handling, orders, and admin operations.
 
 ### 🔹 **AI Resume Parser (Work in Progress)**
 A machine-learning powered tool that parses resumes and shortlists candidates.  
-👉 **https://github.com/Jadie145/ai-resume-parser**
+👉 **https://github.com/Jadie145/pending**
 
 ---
 
