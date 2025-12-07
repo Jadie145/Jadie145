@@ -55,7 +55,7 @@ A machine-learning powered tool that parses resumes and shortlists candidates.
 
 ## 📬 Contact Me
 - **GitHub:** [@Jadie145](https://github.com/Jadie145)  
-- **Email:** *(add your email here)*  
+- **Email:** *jaydendsouza145@gmail.com*  
 
 ---
 
